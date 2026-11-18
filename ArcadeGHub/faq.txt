@@ -1,5 +1,5 @@
 Q: ¿Porque este proyecto?
-A: Apostar es mas divertido que aspotar
+A: Apostar es mas divertido que matematicas
 
 Q: ¿Porque esta tan mal tu codigo?
 A: Por ser un proyecto de primer semestre.
