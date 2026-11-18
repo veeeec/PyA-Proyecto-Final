@@ -1,0 +1,4 @@
+Para regresar al menu, se necesita poner una
+ubicacion de archivo especifica para cada equipo.
+
+Reemplazar el texto "//MAIN MENU LOCATION" con la ubicacion en formato C:\\....
